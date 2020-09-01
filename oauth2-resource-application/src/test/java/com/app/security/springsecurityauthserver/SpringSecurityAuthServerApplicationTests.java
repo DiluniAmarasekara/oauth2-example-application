@@ -1,4 +1,4 @@
-package com.techprimers.security.springsecurityauthserver;
+package com.app.security.springsecurityauthserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

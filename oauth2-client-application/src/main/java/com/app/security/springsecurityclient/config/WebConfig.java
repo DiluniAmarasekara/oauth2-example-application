@@ -1,4 +1,4 @@
-package com.techprimers.security.springsecurityclient.config;
+package com.app.security.springsecurityclient.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
